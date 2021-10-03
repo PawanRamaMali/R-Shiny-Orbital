@@ -6,7 +6,6 @@ Orbital provides R Shiny apps with Electron NodeJS implementation to build Deskt
 
 ## FAQs
 
-
 <details>
 <summary> What is a R Shiny ? ? </summary>
 <br/>
@@ -15,7 +14,7 @@ Shiny is an R package that makes it easy to build interactive web apps straight 
 
 ---
 </details>
-
+<br/>
 
 ## Contributing
 
@@ -27,20 +26,18 @@ Chat on [Slack](https://join.slack.com/t/newworkspace-9gk8128/shared_invite/zt-w
 
 <br/>
 
-
 ## Like this project ?
 
 Leave a ⭐ If you think this project is cool.
 
 <br/>
 
-
 ## Author
 
 * Pawan Rama Mali 
   * [GitHub](https://github.com/PawanRamaMali) 
   * [Twitter](https://twitter.com/PawanRamaMali) 
-
+<br/>
 
 ## Licence
 
